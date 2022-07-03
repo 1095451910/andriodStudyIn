@@ -93,7 +93,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 intent4.setData(uri); // 设置意图前往的路径
                 startActivity(intent4); // 启动意图通往的活动页面
                 break;
-            default:
+                //push
         }
 
     }
